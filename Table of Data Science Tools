@@ -1,0 +1,10 @@
+## Data Science Tools
+
+| Category             | Tools                           |
+|----------------------|---------------------------------|
+| Data Management      | MySQL, MongoDB, PostgreSQL      |
+| Statistical Analysis | RStudio, SAS, SPSS              |
+| Visualization        | Tableau, Power BI, Matplotlib   |
+| Machine Learning     | Scikit-learn, TensorFlow        |
+| Big Data Tools       | Apache Spark, Hadoop            |
+| Development Tools    | Jupyter Notebook, VS Code       |
