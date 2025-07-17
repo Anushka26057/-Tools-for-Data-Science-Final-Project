@@ -1,0 +1,9 @@
+# Addition and Multiplication
+num1 = 15
+num2 = 7
+
+sum_result = num1 + num2
+product_result = num1 * num2
+
+print("The sum is:", sum_result)
+print("The product is:", product_result)
