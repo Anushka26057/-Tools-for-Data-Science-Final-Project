@@ -1,0 +1,11 @@
+## Data Science Libraries
+
+Some important libraries used in Data Science include:
+
+- **NumPy** – For numerical computations
+- **Pandas** – For data manipulation and analysis
+- **Matplotlib** – For creating basic plots and graphs
+- **Seaborn** – For statistical data visualization
+- **Scikit-learn** – For machine learning algorithms
+- **TensorFlow** – For deep learning applications
+- **Keras** – Simplified deep learning interface
